@@ -1,0 +1,14 @@
+body { background:#fff; }
+
+.layout-container {
+    width:800px;
+    margin:0 auto;
+    border-right:1px solid #ccc;
+    border-left:1px solid #ccc;
+    padding:0 15px;
+}
+
+#block-paradox-main-menu ul li {
+    border:1px solid #000;
+    float:left;
+}
