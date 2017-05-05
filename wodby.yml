@@ -3,4 +3,4 @@ pipeline:
   - name: Composer Install
     type: command
     command: composer install
-    directory: $WODBY_APP_DOCROOT/../
+    directory: $WODBY_APP_DOCROOT/
