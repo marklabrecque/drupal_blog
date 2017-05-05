@@ -1,0 +1,6 @@
+# post-deployment scripts
+pipeline:
+  - name: Composer Install
+    type: command
+    command: composer install
+    directory: $WODBY_APP_DOCROOT/../
